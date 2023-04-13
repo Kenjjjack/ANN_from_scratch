@@ -1,0 +1,2 @@
+# ANN_from_scratch
+只用pytorch的矩阵乘法实现全连接神经网络

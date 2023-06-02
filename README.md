@@ -1,2 +1,2 @@
 # ANN_from_scratch
-只用pytorch的矩阵乘法实现全连接神经网络，包含线形层以及relu激活函数
+MLP without pytorch's autograd
